@@ -1,0 +1,10 @@
+name: "website"
+title: "Coco Li"
+description: |
+  Coco Li
+output_dir: "_site"
+navbar:
+  right:
+    - text: "About"
+      href: index.html
+output: distill::distill_article

@@ -1,0 +1,15 @@
+---
+title: "Coco Li"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](Siguo Li.JPG){width=100}
+
+## About me:
+My name is Siguo Li (Coco), and I am from Shanghai, China. I am a senior majoring in Economics and Statistics at Macalester College. My plans after graduating is to pursue a data science masters degree, and become a data scientist. 

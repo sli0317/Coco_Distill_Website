@@ -1,0 +1,13 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "Coco Li",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\nAbout me:\nMy name is Siguo Li (Coco), and I am from Shanghai, China. I am a senior majoring in Economics and Statistics at Macalester College. My plans after graduating is to pursue a data science masters degree, and become a data scientist.\n\n\n\n",
+      "last_modified": "2021-03-26T15:40:11-05:00"
+    }
+  ],
+  "collections": []
+}
